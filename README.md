@@ -95,7 +95,7 @@ src/
 ## 👤 Author
 
 **Jean Yves Nkwane**  
-Web Developer
+Student in Business Informatic (B.Sc)
 
 - 🐙 GitHub: [@Nejy190501](https://github.com/Nejy190501)
 
